@@ -1,4 +1,4 @@
-# Bilgisayar Programciligi Tez Odevim
+# Bilgisayar Programciligi Donem Sonu Odevim
  * Merhaba Ben Dokuz Eylül Üniveritesi İMYO Bilgisayar Programcılığı Örgün Öğretimden Bora Avcu.
  * Bu Tez Ödevi Üniversitemizden Mezun Olmadan Önce Zorunlu Olarak Yazdığım Tez Ödevidir.
  * Tez Ödevimin Konusu : " KURAKLIĞIN FARKINDALIĞINI ARTIRMAK VE SUYA DAYALI TARIM YÖNTEMLERİYLE KURAKLIKLA MÜCADELE ETMEK "
